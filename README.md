@@ -6,8 +6,7 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 ## 🔍 Preview
 
-![Screenshot](https://images.gr-assets.com/authors/1673611182p8/3565.jpg)  
-*“Be yourself; everyone else is already taken.” — Oscar Wilde*
+![Screenshot](Screenshot 2025-04-11 at 15.47.31.png)
 
 ---
 
@@ -30,9 +29,9 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 ## 📂 File Structure
 
-├── index.html # Main HTML structure 
-├── index.css # Styling and layout 
-└── index.js # Quote slider functionality
+    ├── index.html # Main HTML structure
+    ├── index.css # Styling and layout 
+    └── index.js # Quote slider functionality
 
 
 ---
@@ -56,7 +55,8 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 2. **Navigate to the project directory:**
 
-    ```cd quote-slider
+    ```bash
+    cd quote-slider
 
 3. **Open index.html in your browser:**
 
