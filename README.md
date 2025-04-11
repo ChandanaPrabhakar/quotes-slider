@@ -6,7 +6,7 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 ## 🔍 Preview
 
-![Screenshot](Screenshot 2025-04-11 at 15.47.31.png)
+![screenshot](<Screenshot 2025-04-11 at 15.47.31.png>)
 
 ---
 
@@ -68,21 +68,22 @@ A simple and elegant quote slider that automatically cycles through famous quote
 
 You can easily:
 
-    🔁 Change quote transition interval in index.js (setTimeout)
+- 🔁 Change quote transition interval in index.js (setTimeout)
 
-    📜 Add more quotes to the quotes array
+- 📜 Add more quotes to the quotes array
 
-    🎨 Style it your way in index.css
+- 🎨 Style it your way in index.css
 
 🙌 Credits
 
-    Quotes and images from Goodreads
+- Quotes and images from Goodreads
 
-    Inspired by classic quote widgets
+- Inspired by classic quote widgets
 
 📄 License
 
 MIT License — feel free to use, modify, and share!
+
 💬 Want Help or Improvements?
 
 Open an issue or start a discussion on GitHub. PRs welcome!
